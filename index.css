@@ -1,0 +1,67 @@
+img{
+    
+    max-width: 300px;
+    height: auto;
+}
+
+h1{
+   font-size: 4.5em;
+   text-align: center;
+    color: aliceblue;
+    background-color: #610606;
+}
+.welcome-header{
+    font-size: 3em;
+    color: rgb(255, 255, 255);
+    background-color: #610606;
+}
+
+.social-header{
+
+    font-size: 3em;
+    color:rgb(255, 255, 255);
+    background-color: #610606;
+
+}
+
+.emotes-subtext{
+    font-size: 2em;
+    color: rgb(206, 109, 109);
+
+}
+
+.recent-upload{
+    position: absolute;
+    right: 400px;
+    bottom: -200px;
+    transform: scale(2.3);
+}
+
+.recent{
+    position: absolute;
+    right: 350px;
+    bottom: 60px;
+    font-size: 2em;
+}
+
+a{
+    
+    color: #ff9898;
+    text-decoration:none;
+    
+}
+
+a:hover{
+    font-size: 1.8em;
+    
+}
+
+p{
+    font-size: 1.25em;
+    color:rgb(255, 255, 255);
+}
+
+
+body {
+    background-color: #800000;
+}
